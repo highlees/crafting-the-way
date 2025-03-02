@@ -52,5 +52,5 @@ While the algorithm works correctly in most normal gameplay scenarios, there are
 
 ## Additional Information
   
-This project was completed during my first year of university. In order to release it, I recently modified the names of a few files and variables in the source code, but the code logic remains unchanged.  
+This project was completed during my first year of university. In order to release it, I recently changed the game name and modified the names of a few files and variables in the source code, but the code logic remains unchanged.
 Additionally, I would like to clarify that I obtained permission from my teammates to distribute the project.
