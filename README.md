@@ -48,3 +48,9 @@ We spent the most time working on the algorithm that checks whether a wall can b
 Although this wasn’t the part I was responsible for developing, 
 I was involved in identifying edge cases and discussing and improving the solution. 
 While the algorithm works correctly in most normal gameplay scenarios, there are still errors in a few specific cases.
+
+
+## Additional Information
+  
+This project was completed during my first year of university. In order to release it, I recently modified the names of a few files and variables in the source code, but the code logic remains unchanged.  
+Additionally, I would like to clarify that I obtained permission from my teammates to distribute the project.
