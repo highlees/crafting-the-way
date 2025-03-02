@@ -1,5 +1,4 @@
 # Crafting the Way
-This Java-implemented board game is inspired by the rules of a well-known board game, applying an object-oriented design based on the MVC architecture.
 
 ## Introduction
 This project was created after learning how to design a program.
