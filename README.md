@@ -8,7 +8,7 @@ Additionally, the components of the program are visualized through a Class Diagr
 
 
 ## Demo
-[demo.mp4](https://github.com/user-attachments/assets/a3d48093-38cd-4bdb-b08e-e0be4eb9370b)
+[demo.webm](https://github.com/user-attachments/assets/58d7fcc9-0420-4622-b0b8-44a0609ff167)
 
 The demo video is played at 1.5x speed compared to the actual gameplay.
 
