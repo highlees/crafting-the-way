@@ -7,6 +7,13 @@ The board game "Crafting the Way" was implemented in Java, applying an object-or
 Additionally, the components of the program are visualized through a Class Diagram to make the structure easier to understand.
 
 
+## Demo
+[demo.mp4](https://github.com/user-attachments/assets/a3d48093-38cd-4bdb-b08e-e0be4eb9370b)
+
+The demo video is played at 1.5x speed compared to the actual gameplay.
+
+
+
 ## Game UI & Rules
 
 ![Game UI](https://github.com/highlees/crafting-the-way/blob/main/game-ui.jpg)
